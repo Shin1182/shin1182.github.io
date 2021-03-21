@@ -1,0 +1,11 @@
+---
+layout: post
+title:  German
+date:   2021-03-21 11:37:14 +0900
+categories: [German, Vocabs]
+---
+
+~~~ python
+for i in range(100):
+  print("Howdy!")
+~~~
